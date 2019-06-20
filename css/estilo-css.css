@@ -1,0 +1,65 @@
+
+main{
+    padding: 5px;
+    width: 960px;
+    height: 1000px;
+    margin: 0px auto;
+    background-color: gray;
+}
+
+#cabecalho{
+    width: 950px auto;
+    background-image: url(images/dragao.jpg);
+    margin: 5px;
+    padding: 5px;
+}
+
+hgroup {
+    text-align: center;
+}
+
+nav #menu{
+
+}
+nav #menu ul {
+
+}
+
+nav #menu ul li{
+
+}
+
+nav #menu ul li:hover {
+
+}
+
+#principal
+{
+
+}
+
+section{
+    width: 600px;
+    margin: 40px;
+    padding: 5px;
+    float: left;
+    background-color: blue;
+}
+
+aside{
+    width: 260px;
+    padding: 5px;
+    float: right;
+    background-color: yellow;
+    margin-bottom: 5px;
+}
+
+footer{
+    text-align: center;
+    font-size: 12px;
+    font-style: italic;
+    font-family: sans-serif;
+    clear: both;
+    background-color: pink;
+    margin-top: 5px;
+}
