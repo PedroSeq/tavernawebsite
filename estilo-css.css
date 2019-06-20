@@ -2,17 +2,41 @@ hgroup {
     text-align: center;
 }
 
-.menu{
-    display: block;
-}
-
-.menu ul{
-    list-style: none;
-}
-
-.menu li{
-    display: inline-block;
-    margin: 10px;
+main{
+    border: solid black 1px;
     padding: 5px;
-    border: solid black;
+    width: 1000px;
+    height: 900px;
+    margin: 0px auto;
+}
+
+#cabecalho{
+    width: 760px auto;
+    border: solid black 1px;
+}
+
+#principal
+{
+
+}
+
+section{
+    width: 600px;
+    margin: 40px;
+    padding: 5px;
+    float: left;
+}
+
+aside{
+    width: 260px;
+    padding: 5px;
+    float: right;
+}
+
+footer{
+    text-align: center;
+    font-size: 12px;
+    font-style: italic;
+    font-family: sans-serif;
+    clear: both;
 }
