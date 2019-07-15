@@ -2,6 +2,11 @@
     font-family: rpg;
     src: url(rpg-webfont.woff)
 }
+
+body{
+        background-image: url(images/middle-earth.jpg);
+        background-attachment: scroll;
+}
 main{
     width: 960px;
     height: 1000px;
